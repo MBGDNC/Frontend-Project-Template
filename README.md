@@ -6,7 +6,7 @@ Start the development server with "npm run dev".
 
 Build for production with "npm run build".
 
-Deploy the "build" directiory after buildign for production.
+Deploy the "build" directory after building for production.
 
 ## Features
 
